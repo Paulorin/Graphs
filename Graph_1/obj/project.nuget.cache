@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "brWC0njW0dFCGhm5UUl/tDBv7hI1294JiPMUgJfxJlLomJVvfn5kyRufe7p9by9Hha1JQkCexvnDKQTQq67IYQ==",
+  "success": true,
+  "projectFilePath": "D:\\src\\C_sharp\\Graph_1\\Graph_1\\Graph_1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Paul\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.27\\microsoft.windowsdesktop.app.ref.6.0.27.nupkg.sha512",
+    "C:\\Users\\Paul\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.27\\microsoft.netcore.app.ref.6.0.27.nupkg.sha512",
+    "C:\\Users\\Paul\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.27\\microsoft.aspnetcore.app.ref.6.0.27.nupkg.sha512",
+    "C:\\Users\\Paul\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.27\\microsoft.netcore.app.host.win-x64.6.0.27.nupkg.sha512"
+  ],
+  "logs": []
+}

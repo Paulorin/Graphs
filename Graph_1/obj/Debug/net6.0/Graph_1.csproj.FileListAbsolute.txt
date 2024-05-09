@@ -1,0 +1,14 @@
+D:\Prg\C#\Graphs\Graph_1\Graph_1\bin\Debug\net6.0\Graph_1.exe
+D:\Prg\C#\Graphs\Graph_1\Graph_1\bin\Debug\net6.0\Graph_1.deps.json
+D:\Prg\C#\Graphs\Graph_1\Graph_1\bin\Debug\net6.0\Graph_1.runtimeconfig.json
+D:\Prg\C#\Graphs\Graph_1\Graph_1\bin\Debug\net6.0\Graph_1.dll
+D:\Prg\C#\Graphs\Graph_1\Graph_1\bin\Debug\net6.0\Graph_1.pdb
+D:\Prg\C#\Graphs\Graph_1\Graph_1\obj\Debug\net6.0\Graph_1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Prg\C#\Graphs\Graph_1\Graph_1\obj\Debug\net6.0\Graph_1.AssemblyInfoInputs.cache
+D:\Prg\C#\Graphs\Graph_1\Graph_1\obj\Debug\net6.0\Graph_1.AssemblyInfo.cs
+D:\Prg\C#\Graphs\Graph_1\Graph_1\obj\Debug\net6.0\Graph_1.csproj.CoreCompileInputs.cache
+D:\Prg\C#\Graphs\Graph_1\Graph_1\obj\Debug\net6.0\Graph_1.dll
+D:\Prg\C#\Graphs\Graph_1\Graph_1\obj\Debug\net6.0\refint\Graph_1.dll
+D:\Prg\C#\Graphs\Graph_1\Graph_1\obj\Debug\net6.0\Graph_1.pdb
+D:\Prg\C#\Graphs\Graph_1\Graph_1\obj\Debug\net6.0\Graph_1.genruntimeconfig.cache
+D:\Prg\C#\Graphs\Graph_1\Graph_1\obj\Debug\net6.0\ref\Graph_1.dll
